@@ -1,5 +1,5 @@
 # expressPlusSwagger
-Node.js Api document making
+<h2>Node.js Api document making</h2>
 
-・SwaggerUIに表示させるためのJSONを返します。
-・試作品ですのでこれから拡張、fork予定　→　アプリ作成のひな形みたいなものをつくる。。。かも
+<p>・SwaggerUIに表示させるためのJSONを返します。</p>
+<p>・試作品ですのでこれから拡張、fork予定　→　アプリ作成のひな形みたいなものをつくる。。。かも</p>
